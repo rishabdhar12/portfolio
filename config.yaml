@@ -21,6 +21,9 @@ params:
   description: "Welcome to my portfolio"
   keywords:
     [
+      Rishab Dhar,
+      rishabdhar,
+      rishab dhar portfolio,
       Blog,
       Portfolio,
       Flutter,
@@ -57,7 +60,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true
+    enabled: false
     title: "[>]$ whoami "
     subtitle: "I'm **Rishab Dhar** a **Mobile App Developer** and **Full-stack web developer**. Dive into my portfolio to explore the fusion of code and creativity!"
     imageUrl: ""
@@ -122,20 +125,21 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: about
-      name: ~/about
+      name: About
       url: /about/
-      weight: 1
+      weight: 10
     - identifier: blog
-      name: ~/blogs
+      name: Blogs
       url: /blogs/
-      weight: 3
-    - identifier: projects
-      name: ~/projects
-      url: /projects/
-      weight: 2
+      weight: 20
+    # - identifier: projects
+    #   name: Projects
+    #   url: /projects/
+    #   weight: 30
     # - identifier: resume
     #   name: ~/resume
     #   url: https://drive.google.com/file/d/155H-ORjhkxR5HePn9xl5wZ4i5wMpUVrs/view?usp=sharing
