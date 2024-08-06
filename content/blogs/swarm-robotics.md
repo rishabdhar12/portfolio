@@ -1,25 +1,25 @@
 ---
-title: "The Rise of Swarm Robotics: Unlocking Collective Intelligence"
+title: 'The Rise of Swarm Robotics'
 date: 2024-06-03T23:15:00+07:00
 slug: swarm-robots
 category: science
 summary:
 description:
 cover:
-  image: "https://i.ibb.co/tDgPWm0/swarm-robots.png"
-  alt: "Swarm Robotics"
+  image: 'https://i.ibb.co/tDgPWm0/swarm-robots.png'
+  alt: 'Swarm Robotics'
   caption:
   relative: true
 showtoc: true
 draft: false
 tags:
   [
-    "Robotics",
-    "Swarm Intelligence",
-    "Artificial Intelligence",
-    "Autonomous Systems",
-    "Emerging Technologies",
-    "Collective Behavior",
+    'Robotics',
+    'Swarm Intelligence',
+    'Artificial Intelligence',
+    'Autonomous Systems',
+    'Emerging Technologies',
+    'Collective Behavior',
   ]
 ---
 

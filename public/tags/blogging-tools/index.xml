@@ -12,12 +12,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/blogging-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deploying a Powered by Hugo to Netlify</title>
+      <title>Deploying a Blog Powered by Hugo to Netlify</title>
       <link>http://localhost:1313/tech-write-up/deploy-hugo/</link>
       <pubDate>Mon, 05 Aug 2024 23:15:00 +0700</pubDate>
       
       <guid>http://localhost:1313/tech-write-up/deploy-hugo/</guid>
-      <description>This guide explains how to set up a blog using Hugo, configure Netlify to deploy it, and link a custom domain to your Netlify site. You can also watch the step-by-step video by theplaybook on YouTube.
+      <description>This guide explains how to set up a blog using Hugo and PaperMod, configure Netlify to deploy it, and link a custom domain to your Netlify site. You can also watch the step-by-step video by theplaybook on YouTube.
 Install Hugo On MacOS :
 brew install hugo On Windows :
 choco install hugo On Linux :

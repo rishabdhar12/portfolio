@@ -1,25 +1,25 @@
 ---
-title: "Digital Afterlife: Exploring the Future of Online Presence and Beyond Death"
+title: 'Digital Afterlife'
 date: 2024-06-02T23:15:00+07:00
 slug: digital-afterlife
 category: science
 summary:
 description:
 cover:
-  image: "https://i.ibb.co/0jkV2x4/Designer.jpg"
-  alt: "Digital Afterlife"
+  image: 'https://i.ibb.co/0jkV2x4/Designer.jpg'
+  alt: 'Digital Afterlife'
   caption:
   relative: true
 showtoc: true
 draft: false
 tags:
   [
-    "Digital Afterlife",
-    "Digital Legacy",
-    "Online Memorials",
-    "Posthumous Identity",
-    "Virtual Memorials",
-    "Online Remembrance",
+    'Digital Afterlife',
+    'Digital Legacy',
+    'Online Memorials',
+    'Posthumous Identity',
+    'Virtual Memorials',
+    'Online Remembrance',
   ]
 ---
 

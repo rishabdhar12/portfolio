@@ -1,5 +1,5 @@
 ---
-title: 'Questioning the Very Existence of Free Will: A Philosophical Inquiry'
+title: 'Questioning the Very Existence of Free Will'
 date: 2024-06-05T23:15:00+07:00
 slug: free-will
 category: science
