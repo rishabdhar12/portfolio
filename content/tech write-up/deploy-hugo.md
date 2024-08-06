@@ -11,7 +11,7 @@ cover:
   caption:
   relative: true
 showToc: true
-draft: true
+draft: false
 ShowReadingTime: true
 tags:
   [
