@@ -140,14 +140,14 @@ menu:
     #   name: Projects
     #   url: /projects/
     #   weight: 30
-    # - identifier: resume
-    #   name: ~/resume
-    #   url: https://drive.google.com/file/d/155H-ORjhkxR5HePn9xl5wZ4i5wMpUVrs/view?usp=sharing
-    #   weight: 4
-    # - identifier: contact
-    #   name: ~/contact
-    #   url: mailto:rishabdhar12@gmail.com
-    #   weight: 5
+    - identifier: resume
+      name: ~/resume
+      url: https://drive.google.com/file/d/155H-ORjhkxR5HePn9xl5wZ4i5wMpUVrs/view?usp=sharing
+      weight: 30
+    - identifier: contact
+      name: ~/contact
+      url: mailto:rishabdhar12@gmail.com
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
