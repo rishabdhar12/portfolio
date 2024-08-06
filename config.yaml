@@ -132,21 +132,21 @@ menu:
       url: /about/
       weight: 10
     - identifier: blog
-      name: Blogs
+      name: Mindspace
       url: /blogs/
       weight: 20
-    # - identifier: projects
-    #   name: Projects
-    #   url: /projects/
-    #   weight: 30
+    - identifier: tech write-up
+      name: Tech Write-up
+      url: /tech write-up/
+      weight: 30
     - identifier: resume
       name: Resume
       url: https://drive.google.com/file/d/1lbGJh4GY22EXK-oGU3GuM6_KGIAN04O_/view?usp=sharing
-      weight: 30
+      weight: 40
     - identifier: contact
       name: Contact
       url: mailto:rishabdhar12@gmail.com
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
