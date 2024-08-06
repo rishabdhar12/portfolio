@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on Rishab Dhar</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Rishab Dhar</description>
+    <image>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying a Powered by Hugo to Netlify</title>
+      <link>http://localhost:1313/tech-write-up/deploy-hugo/</link>
+      <pubDate>Mon, 05 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tech-write-up/deploy-hugo/</guid>
+      <description>This guide explains how to set up a blog using Hugo, configure Netlify to deploy it, and link a custom domain to your Netlify site. You can also watch the step-by-step video by theplaybook on YouTube.
+Install Hugo On MacOS :
+brew install hugo On Windows :
+choco install hugo On Linux :
+sudo apt install hugo Create a New Site hugo new site portfolio -f yml Run hugo new site &amp;lt;site_name&amp;gt; to create a new Hugo site in the &amp;lt;site_name&amp;gt; directory.</description>
+    </item>
+    
+  </channel>
+</rss>
