@@ -57,7 +57,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false
+    enabled: true
     title: "[>]$ whoami "
     subtitle: "I'm **Rishab Dhar** a **Mobile App Developer** and **Full-stack web developer**. Dive into my portfolio to explore the fusion of code and creativity!"
     imageUrl: ""
@@ -136,14 +136,14 @@ menu:
       name: ~/projects
       url: /projects/
       weight: 2
-    - identifier: resume
-      name: ~/resume
-      url: https://drive.google.com/file/d/155H-ORjhkxR5HePn9xl5wZ4i5wMpUVrs/view?usp=sharing
-      weight: 4
-    - identifier: contact
-      name: ~/contact
-      url: mailto:rishabdhar12@gmail.com
-      weight: 5
+    # - identifier: resume
+    #   name: ~/resume
+    #   url: https://drive.google.com/file/d/155H-ORjhkxR5HePn9xl5wZ4i5wMpUVrs/view?usp=sharing
+    #   weight: 4
+    # - identifier: contact
+    #   name: ~/contact
+    #   url: mailto:rishabdhar12@gmail.com
+    #   weight: 5
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
