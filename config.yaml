@@ -73,7 +73,6 @@ params:
       - name: Email
         url: mailto:rishabdhar12@gmail.com
 
-  # home-info mode
   homeInfoParams:
     Title: "[>]$ whoami "
     Content: "
@@ -142,7 +141,7 @@ menu:
     #   weight: 30
     - identifier: resume
       name: Resume
-      url: https://drive.google.com/file/d/155H-ORjhkxR5HePn9xl5wZ4i5wMpUVrs/view?usp=sharing
+      url: https://drive.google.com/file/d/1lbGJh4GY22EXK-oGU3GuM6_KGIAN04O_/view?usp=sharing
       weight: 30
     - identifier: contact
       name: Contact
