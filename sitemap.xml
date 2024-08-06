@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rishabdhar.netlify.app/tags/blogging-tools/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/custom-domain/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tech-write-up/deploy-hugo/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/github-pages/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/hugo/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/netlify/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/static-site-generator/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tech-write-up/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/web-development/</loc>
+    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>https://rishabdhar.netlify.app/blogs/</loc>
     <lastmod>2024-08-03T23:15:00+07:00</lastmod>
   </url><url>
@@ -29,13 +62,7 @@
     <loc>https://rishabdhar.netlify.app/tags/postmodernloneliness/</loc>
     <lastmod>2024-08-03T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://rishabdhar.netlify.app/</loc>
-    <lastmod>2024-08-03T23:15:00+07:00</lastmod>
-  </url><url>
     <loc>https://rishabdhar.netlify.app/tags/solitudeinpostmodernity/</loc>
-    <lastmod>2024-08-03T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://rishabdhar.netlify.app/tags/</loc>
     <lastmod>2024-08-03T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://rishabdhar.netlify.app/tags/choiceandresponsibility/</loc>
@@ -111,5 +138,7 @@
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://rishabdhar.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://rishabdhar.netlify.app/tags/ci/cd/</loc>
   </url>
 </urlset>
