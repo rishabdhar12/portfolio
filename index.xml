@@ -66,14 +66,39 @@ The field of swarm robotics concerns the coordination of multirobot systems comp
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://rishabdhar.in/about/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
       <guid>https://rishabdhar.in/about/</guid>
-      <description>🤓 My Expertise I specialize in building robust and scalable software applications using modern technologies such as Flutter, React, React Native, Node.js, Python. I have experience working with both NoSQL and SQL technologies, allowing me to develop solutions that meet the needs of my clients. Additionally, I have experience in both on-prem and cloud environments.
-👷🏼 Work Experience Beyond Imagination Technologies
-📍 Remote 📅 September 2023 - Present 👩🏻‍💻 Sofware Developer Sapco IOT Pvt.</description>
+      <description>Hello World! Welcome to my Portfolio. I&amp;rsquo;m Rishab Dhar from Assam, India.
+Feel free to connect with me on LinkedIn to delve into my professional experiences and network with me.
+Here&amp;rsquo;s a glimpse into who I am and what I do:
+Personal Projects Education &amp;amp; Work Experience You can also access my detailed resume here
+I am always open to new opportunities and collaborations. Feel free to reach out to me at rishabdhar12[at]gmail[dot]com.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://rishabdhar.in/projects/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://rishabdhar.in/projects/</guid>
+      <description>Bloc Ecommerce GITHUB = https://github.com/rishabdhar12/bloc_ecommerce/
+Currently developing a feature-rich eCommerce application using Flutter, aiming to deliver a seamless and intuitive user experience across both iOS and Android platforms. Implementing BLoC (Business Logic Component) for efficient state management, to ensure a responsive and scalable application architecture. Following SOLID principles to maintain clean, modular, and maintainable code, enhancing the application&amp;rsquo;s flexibility and ease of future development. Commands Hive GITHUB = https://github.com/rishabdhar12/commands-hive/</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://rishabdhar.in/work-experience/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://rishabdhar.in/work-experience/</guid>
+      <description>Work Experience Beyond Imagination Technologies
+📍 Remote 📅 September 2023 - Present 👩🏻‍💻 Sofware Developer Sapco IOT Pvt. Ltd.
+📍 Kolkata, India 📅 June 2022 - July 2023 👩🏻‍💻 Mobile Application Developer TalkEng Online Learning Solutions Pvt. Ltd.
+📍 Tripura, India 📅 August 2021 - May 2022 👩🏻‍💻 Software Developer Education ICFAI University
+🎓 Graduate, B.Tech (Computer Science and Engineering) 📍 Tripura, India 📅 August 2017 - May 2021 </description>
     </item>
     
     <item>
