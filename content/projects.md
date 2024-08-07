@@ -30,12 +30,12 @@ draft: false
 
 **GITHUB** = https://github.com/rishabdhar12/commands-hive/
 
-- Commands Hive is a small CLI application whose main purpose is to allow the user to save commands in a array. The user can also delete a command, list all commands, search a command.
+- Commands Hive is a small CLI application developed using Golang whose main purpose is to allow the user to save commands in a array. The user can also delete a command, list all commands, search a command.
 - Available for Unix systems.
 
 ---
 
-## Social-Media-Api
+## Social Media Api
 
 **GITHUB** = https://github.com/rishabdhar12/social-media-api/
 
@@ -46,7 +46,7 @@ draft: false
 
 ---
 
-## Flight-Price-Prediction
+## Flight Price Prediction
 
 **GITHUB** = https://github.com/rishabdhar12/Flight-Price-Prediction/
 
