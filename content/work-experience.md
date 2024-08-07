@@ -1,5 +1,5 @@
 ---
-title: 'Work Experience'
+title: 'Work Experience & Education'
 date: 2022-04-09T23:15:00+07:00
 slug: work-experience
 category:
