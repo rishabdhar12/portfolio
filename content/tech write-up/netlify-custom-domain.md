@@ -91,7 +91,7 @@ This guide continues from [Deploying a Blog Powered by Hugo to Netlify](https://
 
 1. **Log In to Netlify**
 
-   - Go to [Netlify’s website](https://www.netlify.com/) and log in or sign up if you don’t have an account.
+   - Login to [Netlify](https://www.netlify.com/).
 
 2. **Add a New Site**
 
