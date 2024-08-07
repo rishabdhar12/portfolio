@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linking a GoDaddy Domain to Netlify</title>
+      <link>http://localhost:1313/tech-write-up/custom-domain/</link>
+      <pubDate>Tue, 06 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tech-write-up/custom-domain/</guid>
+      <description>This guide continues from Deploying a Blog Powered by Hugo to Netlify and will walk you through setting up a custom domain purchased from GoDaddy on Netlify.
+Step 1: Purchase a Domain on GoDaddy Create a GoDaddy Account
+Go to GoDaddy’s website. Click on &amp;ldquo;Sign In&amp;rdquo; at the top right corner or &amp;ldquo;Create an Account&amp;rdquo; if you don’t have one. Follow the prompts to set up your account. Search for Your Desired Domain</description>
+    </item>
+    
     <item>
       <title>Deploying a Blog Powered by Hugo to Netlify</title>
       <link>http://localhost:1313/tech-write-up/deploy-hugo/</link>
@@ -89,7 +100,7 @@ Currently developing a feature-rich eCommerce application using Flutter, aiming 
     </item>
     
     <item>
-      <title>Work Experience</title>
+      <title>Work Experience &amp; Education</title>
       <link>http://localhost:1313/work-experience/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
