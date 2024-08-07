@@ -74,14 +74,14 @@ This guide continues from [Deploying a Blog Powered by Hugo to Netlify](https://
 
 2. **Set Up Nameservers**
 
-   - **Configure Nameservers**: If you plan to use Netlify’s nameservers (generally not needed as Netlify usually works with DNS records rather than nameservers directly), you would change them as follows:
+   - **Configure Nameservers**: If you plan to use Netlify’s nameservers you would change them as follows:
 
      - In the "DNS Management" section, find the "Nameservers" area.
      - Select "Change" and choose "Custom".
-     - Enter the nameservers provided by Netlify if applicable (Netlify generally uses DNS records rather than custom nameservers for this integration, so this step might be optional or different based on your specific setup).
+     - Enter the nameservers provided by Netlify.
      - Save your changes.
 
-   - **Configure DNS Records**: Typically, you’ll be adding or modifying DNS records instead of changing nameservers:
+   - **Configure DNS Records**:
      - **A Records**: If you’re using Netlify’s IP addresses, you might need to add or update A records. Netlify’s documentation provides the current IP addresses.
      - **CNAME Record**: For subdomains or if you prefer to use a CNAME, create a CNAME record pointing to `your-site-name.netlify.app`.
 
