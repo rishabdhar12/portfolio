@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Custom Domain on Rishab Dhar</title>
-    <link>https://rishabdhar.netlify.app/tags/custom-domain/</link>
+    <link>https://rishabdhar.in/tags/custom-domain/</link>
     <description>Recent content in Custom Domain on Rishab Dhar</description>
     <image>
-      <url>https://rishabdhar.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://rishabdhar.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://rishabdhar.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rishabdhar.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://rishabdhar.netlify.app/tags/custom-domain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://rishabdhar.in/tags/custom-domain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying a Blog Powered by Hugo to Netlify</title>
-      <link>https://rishabdhar.netlify.app/tech-write-up/deploy-hugo/</link>
+      <link>https://rishabdhar.in/tech-write-up/deploy-hugo/</link>
       <pubDate>Mon, 05 Aug 2024 23:15:00 +0700</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/tech-write-up/deploy-hugo/</guid>
+      <guid>https://rishabdhar.in/tech-write-up/deploy-hugo/</guid>
       <description>This guide explains how to set up a blog using Hugo and PaperMod, configure Netlify to deploy it, and link a custom domain to your Netlify site. You can also watch the step-by-step video by theplaybook on YouTube.
 Install Hugo On MacOS :
 brew install hugo On Windows :

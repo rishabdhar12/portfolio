@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rishab Dhar</title>
-    <link>https://rishabdhar.netlify.app/</link>
+    <link>https://rishabdhar.in/</link>
     <description>Recent content on Rishab Dhar</description>
     <image>
-      <url>https://rishabdhar.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://rishabdhar.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://rishabdhar.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rishabdhar.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://rishabdhar.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://rishabdhar.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying a Blog Powered by Hugo to Netlify</title>
-      <link>https://rishabdhar.netlify.app/tech-write-up/deploy-hugo/</link>
+      <link>https://rishabdhar.in/tech-write-up/deploy-hugo/</link>
       <pubDate>Mon, 05 Aug 2024 23:15:00 +0700</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/tech-write-up/deploy-hugo/</guid>
+      <guid>https://rishabdhar.in/tech-write-up/deploy-hugo/</guid>
       <description>This guide explains how to set up a blog using Hugo and PaperMod, configure Netlify to deploy it, and link a custom domain to your Netlify site. You can also watch the step-by-step video by theplaybook on YouTube.
 Install Hugo On MacOS :
 brew install hugo On Windows :
@@ -26,30 +26,30 @@ sudo apt install hugo Create a New Site hugo new site portfolio -f yml Run hugo 
     
     <item>
       <title>Isolation in Postmodernity</title>
-      <link>https://rishabdhar.netlify.app/blogs/isolation-in-postmodernity/</link>
+      <link>https://rishabdhar.in/blogs/isolation-in-postmodernity/</link>
       <pubDate>Sat, 03 Aug 2024 23:15:00 +0700</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/blogs/isolation-in-postmodernity/</guid>
+      <guid>https://rishabdhar.in/blogs/isolation-in-postmodernity/</guid>
       <description>As I sit here surrounded by the glow of screens, I cannot help but feel a sense of isolation. In our world today, where technology connects us more than ever, it is easy to feel paradoxically disconnected. In this blog, I would like to share my perspective on why isolation feels more prevalent in this postmodern age.
 Connection We all have a smartphone with internet connection. Social media apps like Facebook, Twitter, Instagram and X keep us in touch with our family, friends, and even strangers across the globe.</description>
     </item>
     
     <item>
       <title>Questioning the Very Existence of Free Will</title>
-      <link>https://rishabdhar.netlify.app/blogs/free-will/</link>
+      <link>https://rishabdhar.in/blogs/free-will/</link>
       <pubDate>Wed, 05 Jun 2024 23:15:00 +0700</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/blogs/free-will/</guid>
+      <guid>https://rishabdhar.in/blogs/free-will/</guid>
       <description>What exactly is Free Will? To me, free will is the idea that we have the power of making choices that are not predetermined by the past or aren&amp;rsquo;t affected by external conditions. It&amp;rsquo;s the sense of having control over our actions and the ability to choose different possible paths.
 The Illusion of Choice When I consider the possibility that my choies are not as free as I believe, I start to wonder whether free will really exists?</description>
     </item>
     
     <item>
       <title>The Rise of Swarm Robotics</title>
-      <link>https://rishabdhar.netlify.app/blogs/swarm-robots/</link>
+      <link>https://rishabdhar.in/blogs/swarm-robots/</link>
       <pubDate>Mon, 03 Jun 2024 23:15:00 +0700</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/blogs/swarm-robots/</guid>
+      <guid>https://rishabdhar.in/blogs/swarm-robots/</guid>
       <description>Introduction Upon discovering the notion of swarm robotics, I&amp;rsquo;ve been bursting with enthusiasm (pun intended!). It seems like something straight out of a science fiction movie. But here&amp;rsquo;s the best part&amp;ndash;it&amp;rsquo;s not.
 In this blog, we&amp;rsquo;ll be exploring the field of swarm robotics on how these tiny robots function, their applications and their possibilities.
 Understanding Swarm Robotics According to ScienceDirect
@@ -58,19 +58,19 @@ The field of swarm robotics concerns the coordination of multirobot systems comp
     
     <item>
       <title>Digital Afterlife</title>
-      <link>https://rishabdhar.netlify.app/blogs/digital-afterlife/</link>
+      <link>https://rishabdhar.in/blogs/digital-afterlife/</link>
       <pubDate>Sun, 02 Jun 2024 23:15:00 +0700</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/blogs/digital-afterlife/</guid>
+      <guid>https://rishabdhar.in/blogs/digital-afterlife/</guid>
       <description>It is always seemed to be a good reasoning to think of something worth to leave behind in the earth, something worth to change into it, the dreams we build, and the signs our presence leaves in the other people. What about in terms of other internetting it, however? This question has brought shivers in my spine as I think of my accounts on social media platforms with lots of sensitive and personal information uploaded on them and many more accounts that I own.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://rishabdhar.netlify.app/about/</link>
+      <link>https://rishabdhar.in/about/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/about/</guid>
+      <guid>https://rishabdhar.in/about/</guid>
       <description>🤓 My Expertise I specialize in building robust and scalable software applications using modern technologies such as Flutter, React, React Native, Node.js, Python. I have experience working with both NoSQL and SQL technologies, allowing me to develop solutions that meet the needs of my clients. Additionally, I have experience in both on-prem and cloud environments.
 👷🏼 Work Experience Beyond Imagination Technologies
 📍 Remote 📅 September 2023 - Present 👩🏻‍💻 Sofware Developer Sapco IOT Pvt.</description>
@@ -78,10 +78,10 @@ The field of swarm robotics concerns the coordination of multirobot systems comp
     
     <item>
       <title>My 1st post</title>
-      <link>https://rishabdhar.netlify.app/page/</link>
+      <link>https://rishabdhar.in/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://rishabdhar.netlify.app/page/</guid>
+      <guid>https://rishabdhar.in/page/</guid>
       <description>Desc Text.</description>
     </item>
     

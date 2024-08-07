@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://rishabdhar.netlify.app/sitemap.xml
+Sitemap: https://rishabdhar.in/sitemap.xml
