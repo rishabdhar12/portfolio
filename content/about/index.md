@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: 'About Me'
 date: 2022-04-09T23:15:00+07:00
 slug: about
 category:
@@ -12,48 +12,30 @@ cover:
   relative: true
 showtoc: false
 draft: false
+disableShare: true
 ---
 
 ---
 
-### 🤓 My Expertise
+### Hello World!
 
-I specialize in building robust and scalable software applications using modern technologies such as Flutter, React, React Native, Node.js, Python. I have experience working with both NoSQL and SQL technologies, allowing me to develop solutions that meet the needs of my clients. Additionally, I have experience in both on-prem and cloud environments.
+Welcome to my Portfolio. I'm Rishab Dhar from Assam, India.
 
----
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishab-dhar-60a7aa197/) to delve into my professional experiences and network with me.
 
-### 👷🏼 Work Experience
+Here's a glimpse into who I am and what I do:
 
-**Beyond Imagination Technologies**
+- **[Personal Projects](/projects/)**
+- **[Education & Work Experience](/work-experience/)**
 
-- 📍 Remote
-- 📅 September 2023 - Present
-- 👩🏻‍💻 Sofware Developer
+You can also access my detailed resume **[here](https://drive.google.com/file/d/1lbGJh4GY22EXK-oGU3GuM6_KGIAN04O_/view?usp=sharing)**
 
-**Sapco IOT Pvt. Ltd.**
-
-- 📍 Kolkata, India
-- 📅 June 2022 - July 2023
-- 👩🏻‍💻 Mobile Application Developer
-
-**TalkEng Online Learning Solutions Pvt. Ltd.**
-
-- 📍 Tripura, India
-- 📅 August 2021 - May 2022
-- 👩🏻‍💻 Software Developer
+I am always open to new opportunities and collaborations. Feel free to reach out to me at **rishabdhar12[at]gmail[dot]com**. I look forward to connecting with you!
 
 ---
 
-### 📚 Education
+### Disclaimer:
 
-**ICFAI University**
-
-- 🎓 Graduate, B.Tech (Computer Science and Engineering)
-- 📍 Tripura, India
-- 📅 August 2017 - May 2021
+The opinions expressed on this website are those of the author and do not reflect the views of any affiliated organizations. The content is for informational purposes only.
 
 ---
-
-🫱🏽‍🫲🏼 **Let’s Connect**
-
-I am always open to new opportunities and collaborations. Whether you’re looking to hire a developer or simply want to chat about technology, feel free to reach out to me. I look forward to connecting with you!
