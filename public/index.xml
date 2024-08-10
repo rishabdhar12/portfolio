@@ -12,6 +12,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Implementing dependency injection in Flutter Application</title>
+      <link>http://localhost:1313/tech-write-up/flutter-di/</link>
+      <pubDate>Tue, 06 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tech-write-up/flutter-di/</guid>
+      <description>I&amp;rsquo;ve been working on a Flutter budgeting application lately. Previously, I have encountered difficulties with effectively managing a variety of dependencies. Maintaining a clean and structured codebase is essential for any application that works with user data, many services, and complex financial computations. Dependency Injection (DI) is useful in this situation. Let&amp;rsquo;s explore how get_it can simplify DI in Flutter and improve the architecture of your budgeting app.
+Why Dependency Injection Matters Dependency Injection is a design pattern that helps you manage dependencies in a more modular and scalable way.</description>
+    </item>
+    
+    <item>
       <title>Linking a GoDaddy Domain to Netlify</title>
       <link>http://localhost:1313/tech-write-up/custom-domain/</link>
       <pubDate>Tue, 06 Aug 2024 23:15:00 +0700</pubDate>

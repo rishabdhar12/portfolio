@@ -2,43 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/blogging-tools/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/custom-domain/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/domain/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/github-pages/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/godaddy/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-write-up/custom-domain/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech-write-up/custom-domain/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/netlify/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-08T23:15:00+07:00</lastmod>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/static-site-generator/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tech-write-up/</loc>
-    <lastmod>2024-08-08T23:15:00+07:00</lastmod>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blogging-tools/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2024-08-05T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ci/cd/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/custom-domain/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tech-write-up/deploy-hugo/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/github-pages/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/netlify/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/static-site-generator/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
     <lastmod>2024-08-05T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/contemporaryisolation/</loc>
