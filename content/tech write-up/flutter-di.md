@@ -18,7 +18,7 @@ tags: []
 
 ---
 
-I've been working on a Flutter budgeting application lately. Previously, I have encountered difficulties with effectively managing a variety of dependencies. Maintaining a clean and structured codebase is essential for any application that works with user data, many services, and complex financial computations. Dependency Injection (DI) is useful in this situation. Let's explore how get_it can simplify DI in Flutter and improve the architecture of your budgeting app.
+I've been working on a Flutter budgeting application lately. Previously, I have encountered difficulties with effectively managing a variety of dependencies. Maintaining a clean and structured codebase is essential for any application that works with user data, many services, and complex financial computations. Dependency Injection (DI) is useful in this situation. Let's explore how get_it can simplify DI in Flutter.
 
 ### Why Dependency Injection Matters
 
