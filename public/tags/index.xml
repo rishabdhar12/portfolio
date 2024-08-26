@@ -10,7 +10,106 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BudgetingApp</title>
+      <link>http://localhost:1313/tags/budgetingapp/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/budgetingapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CleanCode</title>
+      <link>http://localhost:1313/tags/cleancode/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/cleancode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EitherType</title>
+      <link>http://localhost:1313/tags/eithertype/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/eithertype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ErrorHandling</title>
+      <link>http://localhost:1313/tags/errorhandling/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/errorhandling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>http://localhost:1313/tags/flutter/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlutterDevelopment</title>
+      <link>http://localhost:1313/tags/flutterdevelopment/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/flutterdevelopment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlutterTips</title>
+      <link>http://localhost:1313/tags/fluttertips/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/fluttertips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fpdart</title>
+      <link>http://localhost:1313/tags/fpdart/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/fpdart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FunctionalProgramming</title>
+      <link>http://localhost:1313/tags/functionalprogramming/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/functionalprogramming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImmutableState</title>
+      <link>http://localhost:1313/tags/immutablestate/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/immutablestate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OptionType</title>
+      <link>http://localhost:1313/tags/optiontype/</link>
+      <pubDate>Wed, 07 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/optiontype/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Blogging Tools</title>
       <link>http://localhost:1313/tags/blogging-tools/</link>

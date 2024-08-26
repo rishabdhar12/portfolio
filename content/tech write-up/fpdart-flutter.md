@@ -1,92 +1,111 @@
 ---
-title: 'Functional Programming on Flutter using fpdart'
+title: 'Functional Programming in Flutter using fpdart'
 date: 2024-08-07T23:15:00+07:00
 slug: fpdart-flutter
 category: tech
 summary:
 description:
 cover:
-  image: ''
-  alt: 'Implementing fpdart in Flutter'
-  caption:
-  relative: true
+image: ''
+alt: 'Implementing fpdart in Flutter'
+caption:
+relative: true
 showToc: true
-draft: true
+draft: false
 ShowReadingTime: true
-tags: []
+tags: [
+    'Flutter',
+    'FunctionalProgramming',
+    'Fpdart',
+    'FlutterDevelopment',
+    'ErrorHandling',
+    'ImmutableState',
+    'OptionType',
+    'EitherType',
+    'CleanCode',
+    'BudgetingApp',
+    'FlutterTips',
+]
 ---
 
 ---
 
-### Functional Programming with Fpdart in Flutter
+As I build my budgeting app, functional programming has become a key part of my development. The fpdart package has really helped me manage errors and state in a more organized way. Let me show you how it’s made a difference with some practical examples.
 
-As I work on my budgeting app, functional programming has become essential to my Flutter development process. The fpdart package, in particular, has transformed how I handle errors and manage state. Let me share how it's helped, along with some practical examples.
+---
 
-#### Why Functional Programming?
+### Why Functional Programming?
 
-FP simplifies code by making it more predictable and easier to test. By treating functions as first-class citizens and emphasizing immutability, I’ve reduced side effects and increased the reliability of my code. This approach has been crucial for maintaining consistent application state across multiple modules in my budgeting app.
+> Functional programming makes code easier to manage and test by focusing on pure functions and immutability (not changing data). This approach has helped me keep my app’s state consistent and avoid unexpected bugs.
 
-#### Fpdart: A Game Changer
+---
+## How Fpdart Helps
 
-Fpdart, contains powerful tools like `Either` and `Option` to manage errors and nullable types effectively. Instead of cluttering my code with null checks and try-catch blocks, I now use `Either` to represent success or failure in a clean, expressive way.
+Fpdart offers tools like `Either` and `Option` that simplify error handling and dealing with nullable values. Instead of using lots of null checks, I use `Either` to handle success and failure in a cleaner way.
 
-Here's how I apply this in my budgeting app:
+Here’s how I use `Either` in my budgeting app:
 
 ```dart
 import 'package:fpdart/fpdart.dart';
 
-// A simple use case for retrieving budget data
+// Get budget data
 Future<Either<Failure, Budget>> getBudget(String userId) async {
-  try {
-    // Simulate an API call
-    final budget = await api.fetchBudget(userId);
-    return Right(budget); // Success case
-  } catch (error) {
-    return Left(Failure('Failed to fetch budget data')); // Failure case
-  }
+    try {
+        final budget = await api.fetchBudget(userId); // API call
+        return Right(budget); // Success
+    } catch (error) {
+        return Left(Failure('Failed to fetch budget data')); // Failure
+    }
 }
 ```
 
-Using `Either`, I can cleanly separate the success (`Right`) and failure (`Left`) paths, making the function’s intent clear.
 
-#### Handling Errors with `Either`
+### Handling Errors with `Either`
 
-In a typical UI scenario, dealing with the result becomes straightforward:
+Handling results in the UI:
 
 ```dart
 void displayBudget(String userId) async {
-  final result = await getBudget(userId);
+    final result = await getBudget(userId);
 
-  result.fold(
-    (failure) => showError(failure.message), // Handle the error
-    (budget) => showBudget(budget), // Handle the success
-  );
-}
+    result.fold(
+            (failure) => showError(failure.message), // Show error message
+            (budget) => showBudget(budget), // Display budget
+            );
+        }
 ```
 
-The `fold` method allows me to elegantly handle both outcomes, ensuring that my UI stays responsive and the code remains easy to understand.
+With `Either`, I can separate successful results (`Right`) from errors (`Left`), making my code easier to understand.
 
-#### Leveraging `Option` for Nullable Values
+The `fold` method helps me deal with both success and failure in a clean way, keeping the code neat and the UI responsive.
 
-Another powerful tool from fpdart is `Option`, which I use to handle nullable values without resorting to null checks:
+### Using `Option` for Nullable Values
+
+Fpdart’s `Option` helps manage nullable values without constant null checks. This way, I can handle the presence or absence of values more smoothly.
 
 ```dart
 Option<Budget> findBudgetById(List<Budget> budgets, String id) {
-  final budget = budgets.firstWhereOrNull((b) => b.id == id);
-  return Option.fromNullable(budget);
+    final budget = budgets.firstWhereOrNull((b) => b.id == id);
+    return Option.fromNullable(budget);
 }
 ```
 
-This approach encapsulates the possibility of a null value, allowing me to handle it more gracefully:
+Instead of checking if `budget` is null, I can handle it like this:
 
 ```dart
 final optionBudget = findBudgetById(budgets, '123');
 
 optionBudget.match(
-  () => print('Budget not found'), // Handle the absence of a value
-  (budget) => print('Found budget: $budget'), // Handle the presence of a value
-);
+        () => print('Budget not found'), // Handle missing budget
+        (budget) => print('Found budget: $budget'), // Handle found budget
+    );
 ```
+
+---
+
+- **[fpdart (pub.dev)](https://pub.dev/packages/fpdart)**
+- **[fpdart (Github)](https://github.com/SandroMaglione/fpdart)**
+
 
 ---
 
