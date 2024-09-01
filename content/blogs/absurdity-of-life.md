@@ -51,7 +51,7 @@ Even though we aren't born with a built-in-purpose that doesn't mean we are comp
 **[Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)**, a French philosopher, author and journalist famously said:
 > _**One must imagine Sisyphus happy.**_
 
-Sisyphus is a character from Greek mythology who is condemed to roll a boulder up the hill for eternity. But everytime he's almost at the top, the bolder rolls back down. Camus argues that even though he's bound to it, Sisyphus accepts the absurdity and finds joy in the struggle itself.
+Sisyphus is a character from Greek mythology who is condemned to roll a boulder up the hill for eternity. But everytime he's almost at the top, the bolder rolls back down. Camus argues that even though he's bound to it, Sisyphus accepts the absurdity and finds joy in the struggle itself.
 
 The key takeaway is in finding happiness in the little things, like our daily tasks, spending time with family, friends and loved ones. Even though life doesn't provide you with a clear cut purpose, we can still make it meaningful by choosing how we respond to the absurdity.
 
