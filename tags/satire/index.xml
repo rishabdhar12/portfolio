@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Philosophy on Rishab Dhar</title>
-    <link>https://rishabdhar.in/tags/philosophy/</link>
-    <description>Recent content in Philosophy on Rishab Dhar</description>
+    <title>Satire on Rishab Dhar</title>
+    <link>https://rishabdhar.in/tags/satire/</link>
+    <description>Recent content in Satire on Rishab Dhar</description>
     <image>
       <url>https://rishabdhar.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://rishabdhar.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://rishabdhar.in/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://rishabdhar.in/tags/satire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Absurdity of Life</title>
       <link>https://rishabdhar.in/blogs/absurdity-of-life/</link>
@@ -19,16 +19,6 @@
       <guid>https://rishabdhar.in/blogs/absurdity-of-life/</guid>
       <description>Life is strange and full of surprises. At times, situations can be confusing and the harder we try to comprehend them, the more contradictory they appear. Either things go wrong or luck is not on your side. You and I aren&amp;rsquo;t the only ones, a lot of philosophers and thinkers have thought about it for generations.
 Carl Sagan, an American astronomer, planetary scientist, and science communicator. puts it like this:</description>
-    </item>
-    
-    <item>
-      <title>Questioning the Very Existence of Free Will</title>
-      <link>https://rishabdhar.in/blogs/free-will/</link>
-      <pubDate>Wed, 05 Jun 2024 23:15:00 +0700</pubDate>
-      
-      <guid>https://rishabdhar.in/blogs/free-will/</guid>
-      <description>What exactly is Free Will? To me, free will is the idea that we have the power of making choices that are not predetermined by the past or aren&amp;rsquo;t affected by external conditions. It&amp;rsquo;s the sense of having control over our actions and the ability to choose different possible paths.
-The Illusion of Choice When I consider the possibility that my choies are not as free as I believe, I start to wonder whether free will really exists?</description>
     </item>
     
   </channel>
