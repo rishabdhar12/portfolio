@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Humor on Rishab Dhar</title>
+    <link>http://localhost:1313/tags/humor/</link>
+    <description>Recent content in Humor on Rishab Dhar</description>
+    <image>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/humor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Absurdity of Life</title>
+      <link>http://localhost:1313/blogs/absurdity-of-life/</link>
+      <pubDate>Sun, 04 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/blogs/absurdity-of-life/</guid>
+      <description>Life is strange and full of surprises. At times, situations can be confusing and the harder we try to comprehend them, the more contradictory they appear. Either things go wrong or luck is not on your side. You and I aren&amp;rsquo;t the only ones, a lot of philosophers and thinkers have thought about it for generations.
+Carl Sagan, an American astronomer, planetary scientist, and science communicator. puts it like this:</description>
+    </item>
+    
+  </channel>
+</rss>
