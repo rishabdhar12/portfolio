@@ -36,8 +36,7 @@ As I build my budgeting app, functional programming has become a key part of my 
 
 ### Why Functional Programming?
 
-> Functional programming makes code easier to manage and test by focusing on pure functions and immutability (not changing data). This approach has helped me keep my app’s state consistent and avoid unexpected bugs.
-
+> Functional programming makes code easier to manage and test by focusing on pure functions and immutability (not changing data). 
 ---
 ## How Fpdart Helps
 

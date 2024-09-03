@@ -1,13 +1,13 @@
 ---
-title: 'How I Understand Machiavelli’s Advice: The Wolf Among the Sheep'
+title: 'Historical Materialism'
 date: 2024-08-05T23:15:00+07:00
-slug: wold-among-sheep
+slug: historical-materialism 
 category: philosophical
 summary:
 description:
 cover:
   image: ''
-  alt: 'How I Understand Machiavelli’s Advice: The Wolf Among the Sheep'
+  alt: 'Historical Materialism'
   caption:
   relative: true
 showtoc: true

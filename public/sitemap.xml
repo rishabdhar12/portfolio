@@ -50,6 +50,9 @@
     <loc>http://localhost:1313/tags/blogging-tools/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ci/cd/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
@@ -71,6 +74,9 @@
     <loc>http://localhost:1313/tech-write-up/flutter-di/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blogs/historical-materialism/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tech-write-up/custom-domain/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
@@ -82,9 +88,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/web-development/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2024-08-05T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tech-write-up/deploy-hugo/</loc>
     <lastmod>2024-08-05T23:15:00+07:00</lastmod>

@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infinite Scrolling</title>
+      <link>http://localhost:1313/blogs/historical-materialism/</link>
+      <pubDate>Tue, 06 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/blogs/historical-materialism/</guid>
+      <description>The Curse of Infinite Scrolling I recently watched a documentary about how technology is designed to keep us hooked, and it really made me rethink how I use my phone. The design feature of infinite scrolling is a prime example of this. It’s meant to be convenient, but it’s actually a huge time sink that affects our productivity and well-being.
+The Design of Distraction Infinite scrolling was created to keep us engaged.</description>
+    </item>
+    
     <item>
       <title>The Absurdity of Life</title>
       <link>http://localhost:1313/blogs/absurdity-of-life/</link>
