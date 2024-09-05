@@ -16,11 +16,11 @@ draft: false
 
 ---
 
-## Bloc Ecommerce
+## Thriftly 
 
-**GITHUB** = https://github.com/rishabdhar12/bloc_ecommerce/
+**GITHUB** = https://github.com/rishabdhar12/Thriftly/
 
-- Currently developing a feature-rich eCommerce application using Flutter, aiming to deliver a seamless and intuitive user experience across both iOS and Android platforms.
+- Currently developing a feature-rich Expense Tracker App using Flutter, aiming to deliver a seamless and intuitive user experience across both iOS and Android platforms.
 - Implementing BLoC (Business Logic Component) for efficient state management, to ensure a responsive and scalable application architecture.
 - Following SOLID principles to maintain clean, modular, and maintainable code, enhancing the application's flexibility and ease of future development.
 
