@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Functional Programming in Flutter using fpdart</title>
       <link>http://localhost:1313/tech-write-up/fpdart-flutter/</link>
@@ -18,7 +18,8 @@
       
       <guid>http://localhost:1313/tech-write-up/fpdart-flutter/</guid>
       <description>As I build my budgeting app, functional programming has become a key part of my development. The fpdart package has really helped me manage errors and state in a more organized way. Let me show you how it’s made a difference with some practical examples.
-Why Functional Programming? Functional programming makes code easier to manage and test by focusing on pure functions and immutability (not changing data). This approach has helped me keep my app’s state consistent and avoid unexpected bugs.</description>
+Why Functional Programming? Functional programming makes code easier to manage and test by focusing on pure functions and immutability (not changing data).
+How Fpdart Helps Fpdart offers tools like Either and Option that simplify error handling and dealing with nullable values.</description>
     </item>
     
     <item>
@@ -125,8 +126,8 @@ I am always open to new opportunities and collaborations. Feel free to reach out
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
       <guid>http://localhost:1313/projects/</guid>
-      <description>Bloc Ecommerce GITHUB = https://github.com/rishabdhar12/bloc_ecommerce/
-Currently developing a feature-rich eCommerce application using Flutter, aiming to deliver a seamless and intuitive user experience across both iOS and Android platforms. Implementing BLoC (Business Logic Component) for efficient state management, to ensure a responsive and scalable application architecture. Following SOLID principles to maintain clean, modular, and maintainable code, enhancing the application&amp;rsquo;s flexibility and ease of future development. Commands Hive GITHUB = https://github.com/rishabdhar12/commands-hive/</description>
+      <description>Thriftly GITHUB = https://github.com/rishabdhar12/Thriftly/
+Currently developing a feature-rich Expense Tracker App using Flutter, aiming to deliver a seamless and intuitive user experience across both iOS and Android platforms. Implementing BLoC (Business Logic Component) for efficient state management, to ensure a responsive and scalable application architecture. Following SOLID principles to maintain clean, modular, and maintainable code, enhancing the application&amp;rsquo;s flexibility and ease of future development. Commands Hive GITHUB = https://github.com/rishabdhar12/commands-hive/</description>
     </item>
     
     <item>
