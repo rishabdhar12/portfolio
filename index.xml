@@ -57,15 +57,6 @@ sudo apt install hugo Create a New Site hugo new site portfolio -f yml Run hugo 
     </item>
     
     <item>
-      <title>Historical Materialism</title>
-      <link>https://rishabdhar.in/blogs/historical-materialism/</link>
-      <pubDate>Mon, 05 Aug 2024 23:15:00 +0700</pubDate>
-      
-      <guid>https://rishabdhar.in/blogs/historical-materialism/</guid>
-      <description>Tomorrow&amp;rsquo;s dawn heralds the Singularity</description>
-    </item>
-    
-    <item>
       <title>The Absurdity of Life</title>
       <link>https://rishabdhar.in/blogs/absurdity-of-life/</link>
       <pubDate>Sun, 04 Aug 2024 23:15:00 +0700</pubDate>
