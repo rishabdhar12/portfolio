@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 23:15:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Functional Programming in Flutter using fpdart</title>
       <link>http://localhost:1313/tech-write-up/fpdart-flutter/</link>
@@ -54,6 +54,16 @@ Install Hugo On MacOS :
 brew install hugo On Windows :
 choco install hugo On Linux :
 sudo apt install hugo Create a New Site hugo new site portfolio -f yml Run hugo new site &amp;lt;site_name&amp;gt; to create a new Hugo site in the &amp;lt;site_name&amp;gt; directory.</description>
+    </item>
+    
+    <item>
+      <title>Historical Materialism</title>
+      <link>http://localhost:1313/blogs/historical-materialism/</link>
+      <pubDate>Mon, 05 Aug 2024 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/blogs/historical-materialism/</guid>
+      <description>&amp;ldquo;Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances existing already, given and transmitted from the past.&amp;rdquo; (Marx, 1852)
+It might seem a bit contradictory at first—how can we create our own history when we&amp;rsquo;re limited by what’s happened before? But I think it really captures the essence of “historical materialism.” This concept, introduced by Karl Marx and Friedrich Engels, focuses on how societies develop not through random thoughts or actions of a few people, but through the real challenges and situations that everyone faces.</description>
     </item>
     
     <item>
