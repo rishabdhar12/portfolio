@@ -22,17 +22,23 @@ draft: false
 - 📅 December 2024 - Present
 - 👩🏻‍💻 Flutter Developer
 
+---
+
 **Beyond Imagination Technologies**
 
 - 📍 Remote
 - 📅 September 2023 - November 2024
 - 👩🏻‍💻 Sofware Developer
 
+---
+
 **Sapco IOT Pvt. Ltd.**
 
 - 📍 Kolkata, India
 - 📅 June 2022 - July 2023
 - 👩🏻‍💻 Mobile Application Developer
+
+---
 
 **TalkEng Online Learning Solutions Pvt. Ltd.**
 
