@@ -16,10 +16,16 @@ draft: false
 
 ### Work Experience
 
+**Max Mobility Pvt. Ltd.**
+
+- 📍 Kolkata, India
+- 📅 December 2024 - Present
+- 👩🏻‍💻 Flutter Developer
+
 **Beyond Imagination Technologies**
 
 - 📍 Remote
-- 📅 September 2023 - Present
+- 📅 September 2023 - November 2024
 - 👩🏻‍💻 Sofware Developer
 
 **Sapco IOT Pvt. Ltd.**
