@@ -12,7 +12,7 @@ caption:
 relative: true
 showtoc: true
 draft: false
-tags: []
+tags: ["Morality", "Ethics", "Religion", "Secularism", "Philosophy", "Godless morality", "Atheism", "Moral philosophy", "Humanism", "Ethics debate"]
 
 ---
 
