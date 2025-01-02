@@ -47,6 +47,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-07T23:15:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/atheism/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/blogging-tools/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
@@ -62,13 +65,25 @@
     <loc>http://localhost:1313/tags/domain/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ethics/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ethics-debate/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/github-pages/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/godaddy/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/godless-morality/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/humanism/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tech-write-up/flutter-di/</loc>
@@ -77,10 +92,25 @@
     <loc>http://localhost:1313/tech-write-up/custom-domain/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/moral-philosophy/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/morality/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogs/morality-without-god/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/netlify/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/religion/</loc>
+    <lastmod>2024-08-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/secularism/</loc>
     <lastmod>2024-08-06T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/static-site-generator/</loc>
@@ -144,9 +174,6 @@
     <lastmod>2024-08-04T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nihilism/</loc>
-    <lastmod>2024-08-04T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
     <lastmod>2024-08-04T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/satire/</loc>
